@@ -3,7 +3,7 @@
 The code behind Garry is not public. Here you can send issues for the bot; you can also send issues in the support server for faster response times.
 
 
-Create and Issue: [issues](https://github.com/JackAttack612/Garry/issues)
-Discord Support Server: [support](https://support.garrybot.com/)
-Invite Garry to your server: [invite](https://invite.garrybot.com/)
+- Create and Issue: [issues](https://github.com/JackAttack612/Garry/issues)
+- Discord Support Server: [support](https://support.garrybot.com/)
+- Invite Garry to your server: [invite](https://invite.garrybot.com/)
 
