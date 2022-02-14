@@ -8,5 +8,5 @@ Create and Issue: [issues](https://github.com/JackAttack612/Garry/issues)
 Discord Support Server: [support](https://support.garrybot.com/)  
 Invite Garry to your server: [invite](https://invite.garrybot.com/)  
 
-## On Going Fixes
-None!
+## Whats Going on with this project
+[Github Project](https://github.com/users/JackAttack612/projects/5)
