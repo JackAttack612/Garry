@@ -10,4 +10,6 @@ Invite Garry to your server: [invite](https://invite.garrybot.com/)
 
 ## Whats Going on with this project
 [Github Project](https://github.com/users/JackAttack612/projects/5)  
-[![Discord Bots](https://top.gg/api/widget/809137955795894302.svg)(https://top.gg/bot/809137955795894302)]
+![Discord Bots](https://top.gg/api/widget/809137955795894302.svg)
+
+[Discord Bots]: (https://top.gg/bot/809137955795894302)
